@@ -12,7 +12,7 @@ Utilizei a minha comunidade como base.
 
 ## Instalação
 
-- Nehnuam
+- Não tem
 
 ## Stacks utilizadas
 - JavaScript, html e css puro
